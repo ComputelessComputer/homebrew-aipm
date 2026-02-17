@@ -1,8 +1,8 @@
 class Aipm < Formula
   desc "AI-powered project manager for the terminal"
   homepage "https://github.com/ComputelessComputer/aipm"
-  url "https://github.com/ComputelessComputer/aipm/archive/refs/tags/v0.4.1.tar.gz"
-  sha256 "5a572c2510bcbef3c0522e59a5dd072dfe0818d6a561d12b7773ca5dff7cdbde"
+  url "https://github.com/ComputelessComputer/aipm/archive/refs/tags/v0.5.0.tar.gz"
+  sha256 "5480c512ed638e05da184a9a037887317305396e005b4f554ec464543e91fb55"
   license "MIT"
 
   depends_on "rust" => :build
